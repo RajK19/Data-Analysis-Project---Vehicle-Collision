@@ -9,7 +9,7 @@ For this project I’ll be using NYC open data’s motor vehicle collisions data
 dataset can be found here 
 
 ----------------------------------------------------------------------------------------------------------------
-**Presentation Link - 
+** Presentation Link - 
 
 https://docs.google.com/presentation/d/1G-MYYGskXvv9eQPDRS1P9KdFd5YQafHm/edit?usp=sharing&ouid=108526649253723809894&rtpof=true&sd=true
 
@@ -31,3 +31,7 @@ https://youtu.be/mUPApTyp4-M
 Programming Requirements: 
 
 You need to have PyCharm or any other suitable IDE for running this data science application
+----------------------------------------------------------------------------------------------------------------
+
+This project was a part of Coursera guided project -
+https://www.coursera.org/projects/data-science-streamlit-python
